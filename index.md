@@ -58,7 +58,7 @@ See [assignments](/assignments).
 </table>
 
 
-  - TAs:<br> TBD
+  - TAs:<br>
 
 <table >
   <tr>
