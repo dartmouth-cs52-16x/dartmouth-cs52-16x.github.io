@@ -60,7 +60,7 @@ See [assignments](/assignments).
 
   - TAs:<br> TBD
 
-<!-- <table >
+<table >
   <tr>
     <td><img class="profile fancy" src="imgs/sb_profile.jpg" /></td>
     <td><img class="profile fancy" src="imgs/xm_profile.jpg" /></td>
@@ -85,7 +85,7 @@ See [assignments](/assignments).
     Mon 3-5pm<br>Sudikoff 114
     </td>
   </tr>
-</table> -->
+</table>
 
 
 Half of each class will be hands-on demonstrations, code and project discussions, and exercises.  See [schedule](/schedule).
